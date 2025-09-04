@@ -51,5 +51,5 @@ CURSOS | CERTIFICAÇÕES:
 Funções: desenvolvendo um recomendador de filmes com JavaScript-  2025 
 
 
-IDIOMAS
-Inglês Avançado - lugar onde fez (ano em que fez - do mais recente para o mais novo)
+IDIOMAS:
+Inglês basico 
